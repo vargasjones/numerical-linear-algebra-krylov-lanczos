@@ -1,0 +1,16 @@
+{
+  "n": 400,
+  "seed": 13,
+  "m_max": 110,
+  "tol": 1e-08,
+  "lambda_iso": 0.05,
+  "lambda_2": 1.0,
+  "lambda_n": 10.0,
+  "angle_deg": 86.62185694380592,
+  "C": 286.9999999999988,
+  "gamma": 0.10555555555555556,
+  "kappa": 10.473684210526315,
+  "rho": 0.5278907049047463,
+  "conv_eigenvalue": 17,
+  "upper_bound_holds_until_machine_precision": true
+}

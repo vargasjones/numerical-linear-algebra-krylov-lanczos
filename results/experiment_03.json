@@ -1,0 +1,12 @@
+{
+  "n": 300,
+  "seed": 42,
+  "k": 150,
+  "ghost_tol": 0.0001,
+  "first_exact_ghost_step": 64,
+  "final_exact_ghosts": 31,
+  "max_exact_ghosts": 32,
+  "final_heuristic_ghosts": 31,
+  "max_heuristic_ghosts": 32,
+  "final_max_offdiag_orthogonality": 0.16058947312024524
+}

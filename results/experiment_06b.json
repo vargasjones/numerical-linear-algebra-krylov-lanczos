@@ -1,0 +1,14 @@
+{
+  "n": 400,
+  "seed": 13,
+  "m_max": 110,
+  "delta_iso": 0.95,
+  "delta_c": 1.000000000139778e-06,
+  "conv_eigenvalue_iso": 17,
+  "conv_eigenvector_iso": 37,
+  "conv_eigenvalue_cluster": 51,
+  "conv_eigenvector_cluster": null,
+  "final_sin_iso": 2.259985105835845e-15,
+  "final_sin_cluster": 6.548057303147933e-10,
+  "cluster_vector_delay": null
+}

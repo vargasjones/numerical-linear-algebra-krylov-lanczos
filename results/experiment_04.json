@@ -1,0 +1,12 @@
+{
+  "n": 300,
+  "seed": 42,
+  "k": 60,
+  "standard_final_orthogonality": 0.31182261209209994,
+  "standard_cross_sqrt_eps_step": 40,
+  "standard_ritz_mean_error": 0.004234444531832247,
+  "standard_ritz_max_error": 0.11198907073988229,
+  "fro_final_orthogonality": 6.741398355098897e-17,
+  "fro_ritz_mean_error": 0.0020016859342225886,
+  "fro_ritz_max_error": 0.0060457780597777955
+}
